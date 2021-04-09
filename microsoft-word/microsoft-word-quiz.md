@@ -419,3 +419,13 @@ D. A flag icon with the colleague's name appears where their edit is being made.
 - [ ] Word scales the image to the largest size possible to fit within the height or width of the page.
 - [ ] Word converts the photo's file format.
 - [ ] Word analyzes and corrects the image for tone and color.
+
+
+#### Q59. In the image below, where do you click to hide comments when a document prints?
+
+![Screenshot 2021-04-09 at 11 19 24](https://user-images.githubusercontent.com/73294696/114168974-e4205d80-9928-11eb-8560-ac859b6f12a3.png)
+
+- [x] B
+- [ ] A
+- [ ] C
+- [ ] D
